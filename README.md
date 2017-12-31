@@ -61,41 +61,41 @@ All music files below include the link to the original file. The following modif
 Licenses apply as below.
 
 1. Bagatela nº 25 "Für Elise", WoO 59 (https://musopen.org/es/music/361/ludwig-van-beethoven/bagatelle-no-25-fur-elise-woo-59/)
-** License: CC-PD
-** Composer: Ludwig van Beethoven
-** Performer: Anonymous
+  - License: CC-PD
+  - Composer: Ludwig van Beethoven
+  - Performer: Anonymous
 2. King Stephen, Op. 117 - I. Overture (https://musopen.org/music/3094/ludwig-van-beethoven/king-stephen-op-117/)
-** License: CC-PD
-** Composer: Ludwig van Beethoven
-** Performer: European Archive
+  - License: CC-PD
+  - Composer: Ludwig van Beethoven
+  - Performer: European Archive
 3. Brandenburg Concerto no. 2 in F major, BWV 1047 - I. Allegro (https://musopen.org/music/2726/johann-sebastian-bach/brandenburg-concerto-no-2-in-f-major-bwv-1047/)
-** License: CC-PD
-** Composer: Johann Sebastian Bach
-** Performer: Papalin
+  - License: CC-PD
+  - Composer: Johann Sebastian Bach
+  - Performer: Papalin
 4. Brandenburg Concerto no. 2 in F major, BWV 1047 - II. Andante (https://musopen.org/music/2726/johann-sebastian-bach/brandenburg-concerto-no-2-in-f-major-bwv-1047/)
-** License: CC-PD
-** Composer: Johann Sebastian Bach
-** Performer: Papalin
+  - License: CC-PD
+  - Composer: Johann Sebastian Bach
+  - Performer: Papalin
 5. Tiento de medio registro de bajo (https://musopen.org/es/music/3135/sebastian-aguilera-de-heredia/tiento-de-medio-registro-de-bajo/)
-** License: CC-BY-SA 3.0
-** Composer: Sebastian Aguilera de Heredia
-** Performer: Rob Peters
+  - License: CC-BY-SA 3.0
+  - Composer: Sebastian Aguilera de Heredia
+  - Performer: Rob Peters
 6. Concerto No.1 in F major - III. Rondo (https://musopen.org/es/music/1325/wolfgang-amadeus-mozart/piano-concerto-no-1-in-f-k-37/)
-** License: CC-BY-SA 3.0
-** Composer: Wolfgang Amadeus Mozart
-** Performer: Simone Renzi
+  - License: CC-BY-SA 3.0
+  - Composer: Wolfgang Amadeus Mozart
+  - Performer: Simone Renzi
 7. Nocturne in E flat major, Op. 9 no. 2 (https://musopen.org/music/245/frederic-chopin/nocturnes-op-9/)
-** License: CC-PD
-** Composer: Frederic Chopin
-** Performer: Frank Levy
+  - License: CC-PD
+  - Composer: Frederic Chopin
+  - Performer: Frank Levy
 8. Canon and Gigue in D major (Flute quartet arr.) (https://musopen.org/music/2673/johann-pachelbel/canon-and-gigue-in-d-major-flute-quartet-arr/)
-** License: CC-BY-NC
-** Composer: Johann Pachelbel
-** Performer: Steven David Tung
+  - License: CC-BY-NC
+  - Composer: Johann Pachelbel
+  - Performer: Steven David Tung
 9. String Quartet no. 2 in A major - III. Minuetto scherzo (https://musopen.org/music/3115/juan-crisostomo-de-arriaga/string-quartet-no-2-in-a-major/)
-** License: CC-PD
-** Composer: Juan Crisostomo de Arriaga
-** Performer: European Archive
+  - License: CC-PD
+  - Composer: Juan Crisostomo de Arriaga
+  - Performer: European Archive
 
 References
 ----------
