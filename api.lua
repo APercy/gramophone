@@ -9,13 +9,14 @@ gramophone.temp = {}
 gramophone.registered_tracks = {}
 
 -- Use this function register new discs
-gramophone.register_disc = function(record_title, artist, color, record_filename)
+gramophone.register_disc = function(record_title, artist, color, record_filename, mod_name)
+    mod_name = mod_name or "gramophone"
 
 	-- Enter track into array
 	table.insert(gramophone.registered_tracks, {title=record_title, file=record_filename})
 	local record_num = #gramophone.registered_tracks
 
-	minetest.register_craftitem("gramophone:vinyl_disc"..record_num, {
+	minetest.register_craftitem(mod_name..":vinyl_disc"..record_num, {
 		description = "Vinyl Record\n"
 			.."Title: "..minetest.colorize(color, record_title).."\n"
 			.."Artist: "..artist,
@@ -59,7 +60,8 @@ gramophone.on_punch = function(pos, node, clicker, pointed_thing)
 	if #objs > 0 then
 		for _, obj in pairs(objs) do
 			if obj and obj:get_luaentity()
-			and string.find(obj:get_luaentity().name, "^gramophone:vinyl_disc") then
+            --and string.find(obj:get_luaentity().name, "^gramophone:vinyl_disc") then
+			and string.find(obj:get_luaentity().name, ":vinyl_disc") then
 				disc_obj = obj
 				break
 			end
@@ -96,7 +98,7 @@ gramophone.on_punch = function(pos, node, clicker, pointed_thing)
 
 	else 
 		-- Check wielded item
-		if string.find(itemstack:get_name(), "^gramophone:vinyl_disc") then
+		if string.find(itemstack:get_name(), ":vinyl_disc") then
 			-- Get meta
 			local meta = minetest.get_meta(pos)
 			-- Add texture data to temporary variable
